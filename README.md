@@ -1,2 +1,3 @@
-# voting-template
-voting app template 
+Votedish - vote for your favorite local dishes
+===========================
+
